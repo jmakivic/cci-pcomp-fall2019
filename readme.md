@@ -36,6 +36,8 @@ The Arduino Projects Book: [pdf](https://bastiaanvanhengel.files.wordpress.com/2
 Love-O-Meter: pg.33
 Color Mixing Lamp: pg. 53
 
+[Audio for lecture: ](https://drive.google.com/open?id=12UVyf24q05a3jatpUSf9OHX66ckoL6tt)
+
 **Homework**
 
 How can you create a new speculative design object using the sensors from lab? What would the object do? What physical, digital and “immaterial” materials would it use? What affordances would its material qualities provide and what sort of interaction would they enable?
