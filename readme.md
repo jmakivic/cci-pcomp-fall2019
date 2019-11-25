@@ -62,7 +62,7 @@ Code samples:
 
 ## Week 3 (26/19/2019)
 
-This
+This week will focus on the basics of creating sound with Arduino and piezos. 
 
 
 
