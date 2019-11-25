@@ -27,7 +27,7 @@ Think of how you can expand on the “Spaceship Interface” exercise in the Ard
 
 **Note:** This week I am only having office hours on Friday
 
-This week we will be going 
+This week introduces programming RGB LEDs and using temperature and color sensors as inputs.
 
 **Class Materials**
 
@@ -42,6 +42,29 @@ Color Mixing Lamp: pg. 53
 
 How can you create a new speculative design object using the sensors from lab? What would the object do? What physical, digital and “immaterial” materials would it use? What affordances would its material qualities provide and what sort of interaction would they enable?
 Bonus: Research a new type of sensor on your own and create a speculative object that uses it.
+
+## Conductive Paint Workshop 25/11/2019
+
+This workshop will cover the basics of using conductive paint to create touch and proximity sensors. 
+
+**Resources**
+
+Slides and workshop projects: [Conductive Paint Workshop](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Conductive%20Paint%20Workshop.pdf)
+
+Code samples:
+
+[Capsense1.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense1.ino)
+[Capsense2.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense2.ino)
+[Capsense3.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense3.ino)
+[Capsense4.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense4.ino)
+[Capsense5.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense5.ino)
+
+
+## Week 3 (26/19/2019)
+
+This
+
+
 
 
 
