@@ -33,10 +33,16 @@ This week introduces programming RGB LEDs and using temperature and color sensor
 
 The Arduino Projects Book: [pdf](https://bastiaanvanhengel.files.wordpress.com/2016/06/arduino_projects_book.pdf)
 
-Love-O-Meter: pg.33
+Spaceship Interface: pg. 33
+
+
+Love-O-Meter: pg.43
+
+
 Color Mixing Lamp: pg. 53
 
-[Audio for lecture: ](https://drive.google.com/open?id=12UVyf24q05a3jatpUSf9OHX66ckoL6tt)
+
+[Audio for week 2: ](https://drive.google.com/open?id=12UVyf24q05a3jatpUSf9OHX66ckoL6tt)
 
 **Homework**
 
@@ -54,15 +60,46 @@ Slides and workshop projects: [Conductive Paint Workshop](https://github.com/jma
 Code samples:
 
 [Capsense1.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense1.ino)
+
 [Capsense2.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense2.ino)
+
 [Capsense3.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense3.ino)
+
 [Capsense4.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense4.ino)
+
 [Capsense5.ino](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/CapSense5.ino)
 
 
-## Week 3 (26/19/2019)
+## Week 3 (26/11/2019)
 
-This week will focus on the basics of creating sound with Arduino and piezos. 
+This week will focus on the basics of creating sound with Arduino and piezos. We will learn how to use a piezo as a sensor for sound and vibrations. We will also learn how to read schematics.
+
+**Resources**
+
+Slides for Week 3: [pdf](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical%20Computing_%20Week%203.pdf)
+
+**Class Materials**
+
+The Arduino Projects Book: [pdf](https://bastiaanvanhengel.files.wordpress.com/2016/06/arduino_projects_book.pdf)
+
+Schematic Symbols: pg. 10 -  Be sure to go over these in order to be able to read schematics
+
+pg. 70 Light Theremin
+
+pg. 78 Keyboard Instrument
+
+pg. 124 Knock Lock - We did only part of this exercise this week, the rest will be completed next week. We put together everything on the circuit except for the servo motor and the blue capacitor. View the adjusted code [here:](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/knockLock.ino) 
+
+[Audio for Week 3:](https://youtu.be/vvkCVlUcHOo)  
+
+## Week 4 (Monday - 2/12/2019)
+
+## Week 4 (Tuesday - 3/12/2019)
+
+
+
+
+
 
 
 
