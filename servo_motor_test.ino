@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-int servoPin = 9;
+int servoPin = 3;
 Servo Servo1;
 void setup() {
   // put your setup code here, to run once:
