@@ -9,6 +9,8 @@ function setup() {
  serial = new p5.SerialPort();
 
  serial.list();
+ 
+ //Change this to the name of your Arduino Serial port
  serial.open('COM4');
 
  serial.on('connected', serverConnected);
