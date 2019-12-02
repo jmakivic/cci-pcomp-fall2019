@@ -26,7 +26,10 @@ void loop() {
   if(Serial.available() > 0){
     incomingByte = Serial.read();
     servoVal = map(incomingByte, 0, 180, 0,180);
-    Serial.println(servoVal);
+    
+    //Uncomment this line to send data from Arduino to the p5 sketch
+    //Serial.println(servoVal);
+    
     Servo1.write(servoVal);
     delay(10);
     }else{
