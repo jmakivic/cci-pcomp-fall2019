@@ -141,7 +141,7 @@ Follow these tutorials in order to setup serial communication between Arduino an
 
 ## Week 4 (Tuesday - 3/12/2019)
 
-Today we will continue covering motors. We will learn about transistors and how we can use them to control motors. We will also have a soldering workshop and will learn how to solder the Spaceship Interface exercise from pg. 33 of the (Arduino Projects Book)[https://bastiaanvanhengel.files.wordpress.com/2016/06/arduino_projects_book.pdf] onto a PCB. 
+Today we will continue covering motors. We will learn about transistors and how we can use them to control motors. We will also have a soldering workshop and will learn how to solder the Spaceship Interface exercise from pg. 33 of the [Arduino Projects Book](https://bastiaanvanhengel.files.wordpress.com/2016/06/arduino_projects_book.pdf) onto a perfboard. 
 
 **Class materials**
 
@@ -150,6 +150,8 @@ From the Arduino Projects Book:
 pg. 93 Motorized Pinwheel
 
 pg. 102 Zoetrope
+
+Slides for Tuesday, Week 4: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Introduction%20to%20Physical%20Computing_%20Week%204%20(3_12_2019).pdf)
 
 
 
