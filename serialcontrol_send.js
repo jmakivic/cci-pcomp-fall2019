@@ -80,6 +80,9 @@ fill(rightBrightness);
     var textColor = map(rightBrightness, 0, 255,255,0);
     fill(textColor);
     textSize(16);
-    text(latestData, width - 200,30);
+ 
+    //Uncomment to display data from Arduino
+    //text(latestData, width - 200,30);
+ 
     text("BRIGHTNESS LEVEL: "+rightSlider.value(), width - 300, 50);
 }
