@@ -13,6 +13,8 @@ Friday: 12pm - 4pm
 
 **Links to Class Materials**
 
+[Week 1 Slides](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical%20Computing.pptx)
+
 The Arduino Projects Book: [pdf](https://bastiaanvanhengel.files.wordpress.com/2016/06/arduino_projects_book.pdf)
 
 The Spaceship Interface project is on pg. 33
@@ -30,6 +32,8 @@ Think of how you can expand on the “Spaceship Interface” exercise in the Ard
 This week introduces programming RGB LEDs and using temperature and color sensors as inputs.
 
 **Class Materials**
+
+[Week 2 Slides](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical%20Computing%20-%20Week%202.pptx)
 
 The Arduino Projects Book: [pdf](https://bastiaanvanhengel.files.wordpress.com/2016/06/arduino_projects_book.pdf)
 
@@ -94,9 +98,58 @@ pg. 124 Knock Lock - We did only part of this exercise this week, the rest will 
 
 ## Week 4 (Monday - 2/12/2019)
 
+This week will focus on motors and serial communication. Monday will cover servo motors and pulse width modulation. 
+
+**Class Materials**
+
+Slides for Week 4 Monday: [pdf](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Introduction%20to%20Physical%20Computing_%20Week%204%20(2_12_2019).pdf)
+
+[Code for the simple servo exercise:](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/servo_motor_test.ino)
+
+
+Book projects: 
+
+pg. 62 Mood Cue
+
+pg. 102 Knock Lock
+
+In-class serial communication project:
+
+Download p5.serialport [here](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2)
+
+Go to the slides to see how you should set up your breadboard.
+
+Sending data from the Arduino to the p5 sketch:
+
+[Arduino code](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/lightserial.ino)
+
+[p5.js code Part 1](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/serialcontrol.js)
+
+[p5.js code Part 2](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/serialcontrol_graph.js)
+
+Sending data from p5 to the Arduino:
+
+[Arduino Code](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/servo_motor_serial.ino)
+
+[p5.js code](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/serialcontrol_send.js)
+
+Follow these tutorials in order to setup serial communication between Arduino and p5.js
+
+[Tutorial 1](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
+
+[Tutorial 2](https://medium.com/@yyyyyyyuan/tutorial-serial-communication-with-arduino-and-p5-js-cd39b3ac10ce)
+
 ## Week 4 (Tuesday - 3/12/2019)
 
+Today we will continue covering motors. We will learn about transistors and how we can use them to control motors. We will also have a soldering workshop and will learn how to solder the Spaceship Interface exercise from pg. 33 of the (Arduino Projects Book)[https://bastiaanvanhengel.files.wordpress.com/2016/06/arduino_projects_book.pdf] onto a PCB. 
 
+**Class materials**
+
+From the Arduino Projects Book:
+
+pg. 93 Motorized Pinwheel
+
+pg. 102 Zoetrope
 
 
 
