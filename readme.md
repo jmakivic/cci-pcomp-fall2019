@@ -153,6 +153,34 @@ pg. 102 Zoetrope
 
 Slides for Tuesday, Week 4: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Introduction%20to%20Physical%20Computing_%20Week%204%20(3_12_2019).pdf)
 
+## Week 5 (Monday 6/1/2020)
+
+Today's lecture will provide an overview of the history of haptic and tactile machine interfaces. The lab section will focus on sending Arduino data to Processing. The final portion of class will be dedicated to discussing any technical issues that the students may be facing in their projects. 
+
+**Class materials**
+
+From the Arduino Projects Book:
+
+pg. 145 Tweak the Arduino Logo
+
+Slides for Monday, Week 5: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical-Computing-Week-5-6_1.pdf)
+
+## Week 5 (Tuesday 7/1/2020)
+
+Today's lecture will focus on the culture "maker" culture and developing alternative game controllers. The lab section will discuss how to send Processing data to Arduino. The final portion of class will be dedicated to discussing any technical issues that the students may be facing in their projects. 
+
+** Class Materials **
+
+Arduino Code: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Processing_Fade.ino)
+
+Processing Code: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Processing_Fade.pde)
+
+Slides for Tuesday, Week 5: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical-Computing-Week-5-7_1.pdf)
+
+## Week 6 (Tuesday, 14/1/2020)
+
+
+
 
 
 
