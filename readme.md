@@ -178,7 +178,7 @@ Arduino Code: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/
 
 Processing Code: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Processing_Fade.pde)
 
-Slides for Tuesday, Week 5: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical-Computing-Week-5-7_1.pdf)
+Slides for Tuesday, Week 5: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical-Computing-Week%205-7_1.pdf)
 
 
 For the Capacitive Touch Example:
