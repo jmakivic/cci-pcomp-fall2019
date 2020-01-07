@@ -167,15 +167,24 @@ Slides for Monday, Week 5: [here](https://github.com/jmakivic/cci-pcomp-fall2019
 
 ## Week 5 (Tuesday 7/1/2020)
 
-Today's lecture will focus on the culture "maker" culture and developing alternative game controllers. The lab section will discuss how to send Processing data to Arduino. The final portion of class will be dedicated to discussing any technical issues that the students may be facing in their projects. 
+Today's lecture will focus on the culture "maker" culture and developing alternative game controllers. The lab section will discuss how to send Processing data to Arduino and on creating capacitive touch sensors. The final portion of class will be dedicated to discussing any technical issues that the students may be facing in their projects. 
 
 ** Class Materials **
+
+For the Processing Example:
+
 
 Arduino Code: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Processing_Fade.ino)
 
 Processing Code: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Processing_Fade.pde)
 
 Slides for Tuesday, Week 5: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical-Computing-Week-5-7_1.pdf)
+
+
+For the Capacitive Touch Example:
+
+
+Arduino Projects Book, pg. 136
 
 ## Week 6 (Tuesday, 14/1/2020)
 
