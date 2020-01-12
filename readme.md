@@ -186,9 +186,11 @@ For the Capacitive Touch Example:
 
 Arduino Projects Book, pg. 136
 
-## Week 6 (Tuesday, 14/1/2020)
+## Week 6 (Tuesday, 13/1/2020)
 
+Today's lecture will provide an overview of how to use ultrasonic sensors, 8x8 LED Matrices and TFT LCD screens. We will go over the basics of these technologies and students will be given an opportunity to program custom graphics and connect these displays to their sensors of choice. 
 
+Slides for todat: [here](https://github.com/jmakivic/cci-pcomp-fall2019/blob/master/Physical-Computing-Week-6.pdf)
 
 
 
